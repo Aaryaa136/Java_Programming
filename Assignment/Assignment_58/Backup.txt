@@ -1,0 +1,12 @@
+File Name: Demo.txt.txt
+File Size: 7 bytes
+
+RRRRRRRFile Name: Hello.txt - Copy (2).txt
+File Size: 25 bytes
+
+TTTTTTTTTTTTTTTTTTTTTTTTTFile Name: Hello.txt.txt
+File Size: 38 bytes
+
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFile Name: program58_4.java
+File Size: 0 bytes
+
